@@ -76,3 +76,6 @@ function catNames(catArray) {
 
 // question 10
 
+// question 8, 9 and 10 I am having a hard time understanding. I have seen some solutions from
+// others who have done them, but I will not just copy paste something I don't understand.
+// Hopefully my brain will understand more during the next week.
